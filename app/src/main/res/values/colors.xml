@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="backGroundRectangle">#03021F</color> //cor do retangulo atrás da foto
+    <color name="background">#B3B3CA</color> // cor do fundo
+</resources>
